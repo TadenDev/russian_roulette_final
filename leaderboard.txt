@@ -1,0 +1,4 @@
+Tate 0
+Tate 1300
+Ford 300
+Ford 0
